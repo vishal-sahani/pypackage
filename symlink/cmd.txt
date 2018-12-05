@@ -1,0 +1,1 @@
+mklink /j  C:\Users\\AppData\Roaming\Python\Python37\site-packages\spacy\data\en_coref_sm C:\Users\AppData\Roaming\Python\Python37\site-packages\en_coref_sm\en_coref_sm
